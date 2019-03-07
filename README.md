@@ -1,3 +1,6 @@
+# Dockerで権威DNSサーバーのPowerDNS+PowerDNS-Adminを動かす
+https://qiita.com/ohhara_shiojiri/items/ea881867a5421528c6a1
+
 # PowerDNS Docker Container
 
 [![Image Size](https://images.microbadger.com/badges/image/psitrax/powerdns.svg)](https://microbadger.com/images/psitrax/powerdns)
